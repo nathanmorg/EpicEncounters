@@ -1,0 +1,4 @@
+name: EpicEncounters
+version: '${project.version}'
+main: com.nathanmorg.epicencounters.EpicEncounters
+api-version: '1.20'
